@@ -136,6 +136,20 @@ div.another_section_title {
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
 }
 
+/* another section 3 */
+div.e_learning_div_title {
+    margin: 10px 0px 0px 0px;
+    padding: 16px 16px 16px 16px;
+    background-color: transparent;
+    background-image: radial-gradient(at center center, #5bd0ff 15%, rgba(0,5,107,0.97) 79%);
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
+
+.section_three_link_hover:hover {
+ color: #E6C439 !important;
+}
+
 
 /* before footer */
 section.before_footer {
