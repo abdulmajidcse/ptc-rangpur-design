@@ -23,8 +23,10 @@
     vertical-align: top;
     border-right: none;
     width: 20%;
+    margin: 10px;
 }
 #multislider_in_footer .MS-content .item img {
+    width: 100%;
     border: 3px solid #266088;
 }
 @media (max-width: 1200px) {
@@ -48,7 +50,7 @@
     background: transparent;
     font-size: 30px;
     outline: 0;
-    top: 50px;
+    top: 90px;
 }
 @media (max-width: 767px) {
     #multislider_in_footer .MS-controls button {
